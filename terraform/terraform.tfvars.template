@@ -1,0 +1,6 @@
+user = ""
+password = ""
+resource_pool_name = ""
+template_machine_name = ""
+new_machine_name = ""
+ipv4_address = ""
