@@ -1,4 +1,4 @@
-# Terafoam vSphere settings
+# Terraform vSphere settings
 
 ```
 .
